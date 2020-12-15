@@ -1,0 +1,1 @@
+Это прототип команды SStudio для KruzhokPro.
